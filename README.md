@@ -1,7 +1,7 @@
 # Python-PoweUp
 Aulas do Curso Python PowerUp
 
-Uso do PyAutogui e time
+Uso do PyAutogui (https://pyautogui.readthedocs.io/en/latest/) e time (https://docs.python.org/pt-br/3/library/time.html)
 
 Controle efetua o cadastramento no link:
 https://dlp.hashtagtreinamentos.com/python/intensivao/login
