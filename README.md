@@ -8,7 +8,7 @@ https://dlp.hashtagtreinamentos.com/python/intensivao/login
 
 Com o PyAutogui, automatiza processos.
 
-![image](https://github.com/ClubeMobile/Python-PoweUp/assets/13254540/7993a85f-1361-41b2-9c16-ba8dc0a54f97)
+![image](https://github.com/ClubeMobile/Python-PoweUp/assets/13254540/8ddcb2f1-dd4d-4a96-ae01-d7f964db651c)
 
 Ao executar o arquivo: gabarito.py, a rotina abre o Browser do Chrome e efetua login e cadastramento dos registros existentes no arquivo produtos.csv
 
